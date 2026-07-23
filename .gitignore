@@ -26,3 +26,5 @@ MDK-ARM/startup_stm32f103xb.lst
 *.lst
 *.csv
 *.m
+*.bin
+*.elf
