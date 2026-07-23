@@ -30,3 +30,7 @@ MDK-ARM/startup_stm32f103xb.lst
 *.elf
 *.jdebug
 *.jdebug.user
+*.log
+*.log.lock
+*.lock
+*.json
